@@ -1,0 +1,14 @@
+<meta>
+	<info author="Jan 'kefirek' Szmyt | inowerdevelopment@gmail.com | sally.#4722" type="script" name="AdvancedHandcuff" version="0.1.0" />
+	<script src="Exception.lua" type="shared" cache="false"/>
+	<script src="init.lua" type="shared" cache="false"/>
+	<script src="systems/cuffSync.lua" type="server" />
+
+	<script src="systems/clientCuff_utility.lua" type="client"  cache="false"/>
+	<script src="systems/clientCuff.lua" type="client" cache="false"/>
+
+	<file src="fonts/OpenSans-Light.ttf"/>
+	<file src="images/background.png"/>
+	<file src="images/handcuffs.png"/>
+
+</meta>
